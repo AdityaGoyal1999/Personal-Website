@@ -409,7 +409,7 @@ img {
 }
 
 .skills__icon {
-  margin-left: var(--mb-0-75);
+  margin-right: var(--mb-0-75);
 }
 
 .skills__title {
